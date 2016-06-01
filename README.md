@@ -1,2 +1,0 @@
-# FreshPrince
-/*Hello!*/
